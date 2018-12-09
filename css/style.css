@@ -14,8 +14,7 @@ h6 {
 }
 
 #about {
-  background-image: url(/Britstrap/img/abstract.jpg);
-  
+  background-image: url(/img/abstract.jpg);
 }
 
 hr.star-light,
@@ -191,7 +190,7 @@ header.masthead h2 {
 
 
 .masthead {
-  background-image: url(/Britstrap/img/abstract.jpg);
+  background-image: url(/img/abstract.jpg);
 }
 
 @media (min-width: 992px) {
@@ -343,11 +342,11 @@ form .row:first-child .floating-label-form-group {
 }
 
 a {
-  color: #18BC9C;
+  color: rgb(126, 98, 226);
 }
 
 a:focus, a:hover, a:active {
-  color: #128f76;
+  color: rgb(126, 98, 226);
 }
 
 .btn {
@@ -355,7 +354,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #18BC9C !important;
+  background-color: rgb(126, 98, 226) !important;
 }
 
 .bg-secondary {
@@ -363,7 +362,7 @@ a:focus, a:hover, a:active {
 }
 
 .text-primary {
-  color: #18BC9C !important;
+  color: rgb(126, 98, 226) !important;
 }
 
 .text-secondary {
@@ -371,13 +370,13 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary {
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: rgb(126, 98, 226);
+  border-color: rgb(126, 98, 226);
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #128f76;
-  border-color: #128f76;
+  background-color: rgb(126, 98, 226);
+  border-color:rgb(126, 98, 226);
 }
 
 .btn-secondary {
@@ -415,3 +414,4 @@ text-shadow:
   0.05em -0.05em black,
   0.05em 0.05em black;
 }
+
