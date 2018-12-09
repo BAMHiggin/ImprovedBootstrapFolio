@@ -14,7 +14,7 @@ h6 {
 }
 
 #about {
-  background-image: url(/img/abstract.jpg);
+  background-image: url(/ImprovedBootstrapFolio/img/abstract.jpg);
 }
 
 hr.star-light,
@@ -190,7 +190,7 @@ header.masthead h2 {
 
 
 .masthead {
-  background-image: url(/img/abstract.jpg);
+  background-image: url(/ImprovedBootstrapFolio/img/abstract.jpg);
 }
 
 @media (min-width: 992px) {
